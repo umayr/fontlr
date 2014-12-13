@@ -6,6 +6,7 @@
 *.user
 *.sln.docstates
 
+Packages/
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
